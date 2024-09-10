@@ -41,8 +41,8 @@
 
 <p align="center">
   <picture >
-     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.bosdev.de/api?username=kboshold&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e00&show_icons=true&border_color=45475a">
-    <img height=200 alt="Githab User Stats for 'kboshold'" src="https://github-readme-stats.vercel.bosdev.de/api?username=kboshold&title_color=8839ef&icon_color=1e66f5&text_color=4c4f69&bg_color=1e1e2e00&show_icons=true&border_color=bcc0cc">
+     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.bosdev.de/api?username=kboshold&card_width=320&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e00&show_icons=true&border_color=45475a">
+    <img height=200 alt="Githab User Stats for 'kboshold'" src="https://github-readme-stats.vercel.bosdev.de/api?username=kboshold&card_width=320&title_color=8839ef&icon_color=1e66f5&text_color=4c4f69&bg_color=1e1e2e00&show_icons=true&border_color=bcc0cc">
   </picture>
   <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.bosdev.de/api/top-langs/?username=kboshold&layout=compact&langs_count=8&card_width=320&hide=html%2Cscss%2Ccss&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e00&show_icons=true&border_color=45475a">
