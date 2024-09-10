@@ -22,7 +22,8 @@
 
 <p align="center">
 <picture >
-  <img width="100%" alt="Logo showing 'Kevin Boshold'" src="./assets/main_rulers.svg?ba">
+    <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="./assets/ruler_dark.svg">
+  <img width="100%" alt="Logo showing 'Kevin Boshold'" src="./assets/ruler_light.svg">
 </picture>
 </p>
 
