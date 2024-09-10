@@ -11,9 +11,9 @@
 </h3>
 
 <h6 align="center"> 
-  <a href="#TBD" target="_blank">/kɑ ˈboʊsˌhɔld/</a>
+  <a href="https://github.com/user-attachments/assets/58ee83d1-9a5e-448b-85d4-d2d8a28800a2">/kɑ ˈboʊsˌhɔld/</a>
   <br>
-  <a href="#TBD" target="_blank">/ˈkɛvɪn ˈboʊsˌhɔld/</a>
+  <a href="https://github.com/user-attachments/assets/d79e1326-3f91-4977-9811-27cd80cc4a82">/ˈkɛvɪn ˈboʊsˌhɔld/</a>
 </h6>
 
 <hr>
