@@ -26,9 +26,9 @@
   <samp>
     I am a technology enthusiast who enjoys&nbsp;learning&nbsp;awesome&nbsp;things.
     <br>
-    I truly love optimizing my terminal. Check&nbsp;out&nbsp;my&nbsp;<a href="https://github.com/kboshold/dotfiles">dotfiles</a> - Simple but powerfull.
+    I truly love optimizing my terminal. Check&nbsp;out&nbsp;my&nbsp;<a href="https://github.com/kboshold/dotfiles#for-heros">dotfiles</a> - Simple but powerfull.
     <br>
-    & by the way: I use <a href="https://github.com/kboshold/dotfiles">Neovim</a>.
+    & by the way: I use <a href="https://github.com/kboshold/nvim.dotfiles#neovim-is-awesome">Neovim</a>.
   </samp>
 </p>
 
