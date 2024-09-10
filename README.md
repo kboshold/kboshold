@@ -1,23 +1,40 @@
 <h3 align="center">
-
-  <a href="https://github.com/kboshold#k=kevin&note=thats-sad-bad-true">
-      <picture >
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/logo_dark_path.svg">
-        <img width="400px" alt="Logo showing 'kboshold'" src="./assets/logo_light_path.svg">
-      </picture>
-   </a>
-    <div style="color: #777">
-    (Kevin Boshold)
-  </div>
+  <picture >
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo_dark.webp">
+    <img width="440px" alt="Logo showing 'kboshold'" src="./assets/logo_light.webp">
+  </picture>
+  <br>
+  <picture >
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo_name_dark.webp">
+    <img width="140px" alt="Logo showing 'Kevin Boshold'" src="./assets/logo_name_light.webp">
+  </picture>
 </h3>
 
 <h6 align="center"> 
-  <a href="#TBD" target="_blank">/ˈkɛvɪn ˈboʊsˌhɔld/</a>
-  <br>
   <a href="#TBD" target="_blank">/kɑ ˈboʊsˌhɔld/</a>
+  <br>
+  <a href="#TBD" target="_blank">/ˈkɛvɪn ˈboʊsˌhɔld/</a>
 </h6>
 
 <hr>
 
-I'm a tech enthusiast who loves to learn about new things. I love to optimize my terminal to the max so check out my <a href="https://github.com/kboshold/dotfiles">dotfiles</a> - Simple but on steroids.
-And by the way: I use <a href="https://github.com/kboshold/dotfiles">NeoVim</a>
+<p align="center">
+  <picture >
+    <source media="(prefers-color-scheme: dark)" srcset="https://badges.pufler.dev/years/kboshold?color=ffffff&logo=github">
+    <img src="https://badges.pufler.dev/years/kboshold?color=ffffff&logo=github" />
+  </picture>
+</p>
+
+<p align="center">
+I am a technology enthusiast who enjoys learning awesome things.  
+<br>I truly love optimizing my terminal. Check out my <a href="https://github.com/kboshold/dotfiles">dotfiles</a> - Simple but powerfull.<br>
+& by the way: I use <a href="https://github.com/kboshold/dotfiles">Neovim</a>.
+</p>
+
+<!-- Visitor count in the bottom right -->
+<p align="right">
+  <picture >
+    <source media="(prefers-color-scheme: dark)" srcset="https://badges.pufler.dev/visits/kboshold/kboshold?color=ffffff&logo=github">
+    <img src="https://badges.pufler.dev/visits/kboshold/kboshold?color=ffffff&logo=github" />
+  </picture>
+</p>
