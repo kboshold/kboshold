@@ -20,7 +20,11 @@
   <a href="https://github.com/user-attachments/assets/d79e1326-3f91-4977-9811-27cd80cc4a82">/ˈkɛvɪn ˈboʊsˌhɔld/</a>
 </h6>
 
-<hr>
+<p align="center">
+<picture >
+  <img width="100%" alt="Logo showing 'Kevin Boshold'" src="./assets/main_rulers.svg?ba">
+</picture>
+</p>
 
 <p align="center" >
   <samp>
