@@ -32,6 +32,8 @@
   </samp>
 </p>
 
+<div>&nbsp;</div>
+
 <p align="center">
   <picture >
      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.bosdev.de/api?username=kboshold&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e00&show_icons=true">
