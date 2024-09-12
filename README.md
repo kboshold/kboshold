@@ -58,7 +58,7 @@
   </picture>
   
   <picture >
-    <source media="(prefers-color-scheme: dark)" srcset="https://badges.pufler.dev/visits/kboshold/kboshold?style=flat&labelColor=b4befe&color=b4befe">
-    <img src="https://badges.pufler.dev/visits/kboshold/kboshold?style=flat&labelColor=7287fd&color=7287fd" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://badges.pufler.dev/visits/kboshold/kboshold?style=flat&labelColor=b4befe&color=b4befe&cacheSeconds=0">
+    <img src="https://badges.pufler.dev/visits/kboshold/kboshold?style=flat&labelColor=7287fd&color=7287fd&cacheSeconds=0" />
   </picture>
 </p>
