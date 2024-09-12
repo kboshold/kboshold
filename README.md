@@ -52,13 +52,26 @@
 
 <!-- Visitor count in the bottom right -->
 <p align="right">
+  <a href="https://keys.openpgp.org/search?q=hello%40bosdev.de">
+    <picture >
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/F76...AAE-0?style=flat&label=PGP&labelColor=a3affe&color=b4befe&logo=protonmail">
+      <img alt="The fingerprint of Kevin Boshold's PGP key is F76BA00BCC75DA2B2F85B8C7CEEEF1879A2F9AAE" src="https://img.shields.io/badge/F76...AAE-7287fd?style=flat&label=PGP&labelColor=647bfd&logo=protonmail" />
+    </picture>
+  </a>
+  <a href="https://keys.openpgp.org/search?q=github%40proxy.boshol.de">
+    <picture >
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/E96...E47-0?style=flat&label=GPG&labelColor=a3affe&color=b4befe">
+      <img alt="The fingerprint of Kevin Boshold's GPG key is E9644EC8EA3BD5F80242ADD3E070462B4609AE47" src="https://img.shields.io/badge/E96...E47-7287fd?style=flat&label=GPG&labelColor=647bfd" />
+    </picture>
+  </a>
+  <!--
   <picture >
-    <source media="(prefers-color-scheme: dark)" srcset="https://badges.pufler.dev/years/kboshold?style=flat&labelColor=cba6f7&color=cba6f7&logo=github&logoColor=000000">
-    <img src="https://badges.pufler.dev/years/kboshold?style=flat&labelColor=8839ef&color=8839ef&logo=github&logoColor=fffffff" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://badges.pufler.dev/years/kboshold?style=flat&labelColor=c49bf6&color=cba6f7&logo=github&logoColor=000000">
+    <img src="https://badges.pufler.dev/years/kboshold?style=flat&labelColor=8331ee&color=8839ef&logo=github&logoColor=fffffff" />
   </picture>
-  
   <picture >
     <source media="(prefers-color-scheme: dark)" srcset="https://badges.pufler.dev/visits/kboshold/kboshold?style=flat&labelColor=b4befe&color=b4befe&cacheSeconds=0">
     <img src="https://badges.pufler.dev/visits/kboshold/kboshold?style=flat&labelColor=7287fd&color=7287fd&cacheSeconds=0" />
   </picture>
+  -->
 </p>
