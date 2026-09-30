@@ -46,7 +46,7 @@
   -->
   <picture >
      <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/kboshold/ab2d9bf8ae29c3f61f892b67fb3282a2/raw/stats-dark.svg">
-    <img width="49%" alt="GitHub User Stats for 'kboshold'" src="https://gist.githubusercontent.com/kboshold/ab2d9bf8ae29c3f61f892b67fb3282a2/raw/stats-light.svg">
+    <img width="415" alt="GitHub User Stats for 'kboshold'" src="https://gist.githubusercontent.com/kboshold/ab2d9bf8ae29c3f61f892b67fb3282a2/raw/stats-light.svg">
   </picture>
 
   <!-- 
@@ -55,7 +55,7 @@
   -->
   <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/kboshold/ab2d9bf8ae29c3f61f892b67fb3282a2/raw/top-langs-dark.svg">
-    <img width="49%" alt="GitHub User Top Languages for 'kboshold'" src="https://gist.githubusercontent.com/kboshold/ab2d9bf8ae29c3f61f892b67fb3282a2/raw/top-langs-light.svg">
+    <img width="415" alt="GitHub User Top Languages for 'kboshold'" src="https://gist.githubusercontent.com/kboshold/ab2d9bf8ae29c3f61f892b67fb3282a2/raw/top-langs-light.svg">
   </picture>
 </p>
 
