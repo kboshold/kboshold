@@ -45,8 +45,8 @@
   https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card
   -->
   <picture >
-     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.bosdev.de/api?username=kboshold&card_width=320&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e00&show_icons=true&border_color=45475a&ring_color=89b4fa">
-    <img height=200 alt="Githab User Stats for 'kboshold'" src="https://github-readme-stats.vercel.bosdev.de/api?username=kboshold&card_width=320&title_color=8839ef&icon_color=1e66f5&text_color=4c4f69&bg_color=1e1e2e00&show_icons=true&border_color=bcc0cc&ring_color=1e66f5">
+     <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/kboshold/ab2d9bf8ae29c3f61f892b67fb3282a2/raw/stats-dark.svg">
+    <img height=200 alt="GitHub User Stats for 'kboshold'" src="https://gist.githubusercontent.com/kboshold/ab2d9bf8ae29c3f61f892b67fb3282a2/raw/stats-light.svg">
   </picture>
 
   <!-- 
@@ -54,8 +54,8 @@
   https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card
   -->
   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.bosdev.de/api/top-langs/?username=kboshold&layout=compact&langs_count=8&card_width=320&hide=html%2Cscss%2Ccss&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e00&show_icons=true&border_color=45475a">
-    <img height=200 alt="Githab User Top Languages for 'kboshold'" src="https://github-readme-stats.vercel.bosdev.de/api/top-langs/?username=kboshold&layout=compact&langs_count=8&card_width=320&hide=html%2Cscss%2Ccss&title_color=8839ef&icon_color=1e66f5&text_color=4c4f69&bg_color=1e1e2e00&show_icons=true&border_color=bcc0cc">
+     <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/kboshold/ab2d9bf8ae29c3f61f892b67fb3282a2/raw/top-langs-dark.svg">
+    <img height=200 alt="GitHub User Top Languages for 'kboshold'" src="https://gist.githubusercontent.com/kboshold/ab2d9bf8ae29c3f61f892b67fb3282a2/raw/top-langs-light.svg">
   </picture>
 </p>
 
