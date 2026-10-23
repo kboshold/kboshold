@@ -1,15 +1,15 @@
 <h3 align="center">
   <picture >
-    <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="./assets/logo_dark_path.svg">
+    <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="./assets/logo_dark_animated.svg">
     <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="./assets/logo_dark.webp">
-    <source type="image/svg+xml" srcset="./assets/logo_light_path.svg">
+    <source type="image/svg+xml" srcset="./assets/logo_light_animated.svg">
     <img width="440px" alt="Logo showing 'kboshold'" src="./assets/logo_light.webp">
   </picture>
   <br>
   <picture >
-    <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="./assets/logo_name_dark_path.svg">
+    <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="./assets/logo_name_dark_animated.svg">
     <source media="(prefers-color-scheme: dark)" type="image/webp" srcset="./assets/logo_name_dark.webp">
-    <source type="image/svg+xml" srcset="./assets/logo_name_light_path.svg">
+    <source type="image/svg+xml" srcset="./assets/logo_name_light_animated.svg">
     <img width="140px" alt="Logo showing 'Kevin Boshold'" src="./assets/logo_name_light.webp">
   </picture>
 </h3>
@@ -22,8 +22,8 @@
 
 <p align="center">
 <picture >
-    <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="./assets/ruler_dark.svg">
-  <img width="100%" alt="Logo showing 'Kevin Boshold'" src="./assets/ruler_light.svg">
+    <source media="(prefers-color-scheme: dark)" type="image/svg+xml" srcset="./assets/ruler_dark_animated.svg">
+  <img width="100%" alt="Logo showing 'Kevin Boshold'" src="./assets/ruler_light_animated.svg">
 </picture>
 </p>
 
